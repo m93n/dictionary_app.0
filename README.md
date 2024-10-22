@@ -15,10 +15,6 @@ A simple Python-based dictionary application using SQLite and JSON for data hand
   ```
   git clone https://github.com/m93n/dictionary_app.0.git
   ```
-2. Install dependencies:
-  ```
-  pip install -r requirements.txt
-  ```
    
 ## Usage
 1. Run the app:

@@ -1,7 +1,7 @@
 import sqlite3
 
 def get_user_input():
-    word = input("insert a word for translate: \n")
+    word = input("Enter a word to retrieve its meaning: \n")
     return word
 
 

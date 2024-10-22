@@ -51,6 +51,9 @@ Contributions are welcome! Please follow these steps:
 3. Make changes and commit.
 4. Open a pull request.
 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/m93n/dictionary_app.0/blob/master/LICENSE) file for more details.
 
 
 
